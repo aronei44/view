@@ -1,0 +1,18 @@
+.button{
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.primary-bg-color{
+    background-color: #d84fa1;
+}
+.primary-color{
+    color: #d84fa1;
+}
+.undecor{
+    text-decoration: none;
+}
+.img-center{
+    margin: auto;
+}
