@@ -16,3 +16,7 @@
 .img-center{
     margin: auto;
 }
+.otp-form{
+    border: none;
+    height:50px;
+}
